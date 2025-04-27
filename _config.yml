@@ -1,5 +1,5 @@
-title: tonic-starter
-description: ""
+title: the-auld-theme
+description: "a classy and old-fashioned theme"
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
